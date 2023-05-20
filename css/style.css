@@ -1,0 +1,135 @@
+body {
+  color: #40514E;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  font-family: 'Merriweather', serif;
+}
+
+.hero-image {
+  background-image: url("../images/bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 700px;
+}
+
+.hero-image p {
+  color: #fff;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  padding-top: 140px;
+  font-size: 90px;
+  font-weight: 500;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  color: #66BFBF;
+}
+
+hero-image h2 {
+  padding-top: 5px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #C4DFDF 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a {
+  color: #394867;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  margin: 10px 20px;
+}
+
+a:hover {
+  color: #fff;
+}
+
+.skill-1 {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.coding {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.software {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.profile img {
+  width: 150px;
+}
+
+.profile h2 {
+  padding-bottom: 10px;
+}
+
+.profile p {
+  width: 40%;
+  margin: auto;
+}
+
+.profile {
+  line-height: 2;
+}
+
+.skills h2 {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.contact-me p {
+  width: 40%;
+  margin: 40px auto;
+}
+
+.contact-me button {
+  border: none;
+  padding: 10px 20px;
+  background-color: #11999E;
+  border-radius: 8px;
+  color: #fff;
+  font-size: 20px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
