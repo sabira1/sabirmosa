@@ -1,3 +1,11 @@
+.hero-image {
+  background-image: url("../images/bg-1.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 500px;
+}
+
 .profile p {
   width: 95%;
 }
@@ -12,4 +20,18 @@
 
 .contact-me p {
   width: 95%;
+}
+
+.hero-image p {
+  width: 95%;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  padding-top: 120px;
+  font-size: 70px;
+  font-weight: 500;
+  margin-top: 0;
+  margin-bottom: 60px;
+  color: #66BFBF;
 }
