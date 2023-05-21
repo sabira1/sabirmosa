@@ -17,6 +17,8 @@ body {
 
 .hero-image p {
   color: #fff;
+  width: 60%;
+  margin: 0 auto;
 }
 
 h1 {
