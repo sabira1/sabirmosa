@@ -1,9 +1,10 @@
 body {
+  box-sizing: border-box;
   color: #40514E;
   text-align: center;
   margin: 0;
   padding: 0;
-  font-family: 'Merriweather', serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .hero-image {
@@ -69,6 +70,10 @@ a:hover {
   width: 50%;
   margin: 100px auto;
   text-align: left;
+}
+
+.skill-1 ul {
+  line-height: 2;
 }
 
 .coding {
